@@ -75,6 +75,10 @@
 - 作者：flyhunterl
 - 网站：https://www.llingfei.com
 - 如有问题或建议，欢迎联系作者
+- 
+## 打赏
+**您的打赏能让我在下一顿的泡面里加上一根火腿肠。**
+![20250314_125818_133_copy](https://github.com/user-attachments/assets/33df0129-c322-4b14-8c41-9dc78618e220)
 
 ## 开源协议
 
